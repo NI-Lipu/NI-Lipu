@@ -31,8 +31,8 @@
 
 <div>
   <p align="left">
-    <a href="https://www.linkedin.com/in/niamul-islam-lipu-b85904396/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" height="30" width="40" /></a>
-    <a href="https://discord.com/users/1257682270517596171" target="blank"><img src="https://skillicons.dev/icons?i=discord" alt="niamuldiscord" height="30" width="40" /></a>
+    <a href="https://www.linkedin.com/in/niamul-islam-lipu-b85904396/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" height="48" width="48" /></a>
+    <a href="https://discord.com/users/1257682270517596171" target="blank"><img src="https://skillicons.dev/icons?i=discord" alt="niamuldiscord" height="48" width="48" /></a>
     
   </p>
 </div>
