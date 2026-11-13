@@ -1,5 +1,5 @@
 <!--- banner --->
-<img src="./git_hub_banner.png" alt="Hello world">
+<img src="./Niamul Islam Developer Branding Banner.png" alt="Hello world">
 
 <br/>
 
